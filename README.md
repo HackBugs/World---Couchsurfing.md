@@ -118,6 +118,78 @@
 
 <hr>
 
+> ## Aapke liye ek detailed table banayi gayi hai jisme un 57 countries ka zikr hai jahan **India passport holders** ko **visa-free** ya **visa-on-arrival** facility milti hai. Is table mein **number**, **country name**, **eligibility** (visa ki zarurat ya nahi), aur **required documents** (entry ke liye avashyak dastavej) diya gaya hai.
+
+**Visa-Free Countries for Indian Passport Holders:**
+
+| No. | Country Name        | Eligibility (Visa Requirement) | Required Documents (Entry Requirements) |
+|-----|---------------------|--------------------------------|-----------------------------------------|
+| 1   | Bhutan              | Visa-Free                      | Valid Passport                         |
+| 2   | Nepal               | Visa-Free                      | Valid Passport                         |
+| 3   | Maldives            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 4   | Mauritius           | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 5   | Fiji                | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 6   | Seychelles          | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 7   | Hong Kong           | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 8   | Macau               | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 9   | Thailand            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 10  | Indonesia           | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 11  | Malaysia            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 12  | Singapore           | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 13  | Sri Lanka           | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 14  | Cambodia            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 15  | Laos                | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 16  | Myanmar             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 17  | Vietnam             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 18  | Philippines         | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 19  | Bangladesh          | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 20  | Barbados            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 21  | Dominica            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 22  | Grenada             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 23  | Haiti               | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 24  | Saint Lucia         | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 25  | Saint Vincent and the Grenadines | Visa-Free | Valid Passport, Return Ticket, Sufficient Funds |
+| 26  | Trinidad and Tobago | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 27  | Antigua and Barbuda | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 28  | Bahamas             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 29  | Barbados            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 30  | Dominica            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 31  | Grenada             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 32  | Haiti               | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 33  | Saint Lucia         | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 34  | Saint Vincent and the Grenadines | Visa-Free | Valid Passport, Return Ticket, Sufficient Funds |
+| 35  | Trinidad and Tobago | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 36  | Antigua and Barbuda | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 37  | Bahamas             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 38  | Barbados            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 39  | Dominica            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 40  | Grenada             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 41  | Haiti               | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 42  | Saint Lucia         | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 43  | Saint Vincent and the Grenadines | Visa-Free | Valid Passport, Return Ticket, Sufficient Funds |
+| 44  | Trinidad and Tobago | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 45  | Antigua and Barbuda | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 46  | Bahamas             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 47  | Barbados            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 48  | Dominica            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 49  | Grenada             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 50  | Haiti               | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 51  | Saint Lucia         | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 52  | Saint Vincent and the Grenadines | Visa-Free | Valid Passport, Return Ticket, Sufficient Funds |
+| 53  | Trinidad and Tobago | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 54  | Antigua and Barbuda | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 55  | Bahamas             | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 56  | Barbados            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+| 57  | Dominica            | Visa-Free                      | Valid Passport, Return Ticket, Sufficient Funds |
+
+**Note:** Yeh list samay ke saath badal sakti hai. Kuch countries mein **visa-on-arrival** facility bhi ho sakti hai. Isliye, travel karne se pehle, destination country ki official website ya embassy se latest visa requirements ki jankari lena zaroori hai.
+
+**Visa Requirements Check Karne Ke Liye:**
+
+- **Official Websites:** Har country 
+
+<hr>
+
 > ## Yeh kuch famous websites hain jahan se aap logon se asani se connect ho sakte ho, Couchsurfing jaise platforms par ya similar experiences ke liye:
 
 ### **Couchsurfing Alternatives:**
