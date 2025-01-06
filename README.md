@@ -17,6 +17,11 @@
 11. **Wwoofing** – Working on organic farms in exchange for food and accommodation.
 12. **Hostel hopping** – Staying in different hostels while traveling.
 
+```
+Accommodation
+Dormitory
+```
+
 <hr>
 
 > ## Agar aap **India se hain** aur aap **car** ya **hitchhiking** ke through kisi **foreign country** ja rahe hain, toh **visa** ki zarurat aapko **hamesha padegi** agar aap uss country ke liye visa-free travel nahi kar sakte. 
