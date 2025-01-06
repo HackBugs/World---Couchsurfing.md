@@ -40,6 +40,84 @@
 
 <hr>
 
+> ## Aapke liye ek table banayi gayi hai jisme un countries ka zikr hai jahan **India passport holders** ko **visa-free** ya **visa-on-arrival** facility milti hai. Is table mein **number**, **country name**, aur **eligibility** (visa ki zarurat ya nahi) diya gaya hai.
+
+**Visa-Free Countries for Indian Passport Holders:**
+
+| No. | Country Name        | Eligibility (Visa Requirement) |
+|-----|---------------------|--------------------------------|
+| 1   | Bhutan              | Visa-Free                      |
+| 2   | Nepal               | Visa-Free                      |
+| 3   | Maldives            | Visa-Free                      |
+| 4   | Mauritius           | Visa-Free                      |
+| 5   | Fiji                | Visa-Free                      |
+| 6   | Seychelles          | Visa-Free                      |
+| 7   | Hong Kong           | Visa-Free                      |
+| 8   | Macau               | Visa-Free                      |
+| 9   | Thailand            | Visa-Free                      |
+| 10  | Indonesia           | Visa-Free                      |
+| 11  | Malaysia            | Visa-Free                      |
+| 12  | Singapore           | Visa-Free                      |
+| 13  | Sri Lanka           | Visa-Free                      |
+| 14  | Cambodia            | Visa-Free                      |
+| 15  | Laos                | Visa-Free                      |
+| 16  | Myanmar             | Visa-Free                      |
+| 17  | Vietnam             | Visa-Free                      |
+| 18  | Philippines         | Visa-Free                      |
+| 19  | Bangladesh          | Visa-Free                      |
+| 20  | Bhutan              | Visa-Free                      |
+| 21  | Maldives            | Visa-Free                      |
+| 22  | Mauritius           | Visa-Free                      |
+| 23  | Seychelles          | Visa-Free                      |
+| 24  | Hong Kong           | Visa-Free                      |
+| 25  | Macau               | Visa-Free                      |
+| 26  | Thailand            | Visa-Free                      |
+| 27  | Indonesia           | Visa-Free                      |
+| 28  | Malaysia            | Visa-Free                      |
+| 29  | Singapore           | Visa-Free                      |
+| 30  | Sri Lanka           | Visa-Free                      |
+| 31  | Cambodia            | Visa-Free                      |
+| 32  | Laos                | Visa-Free                      |
+| 33  | Myanmar             | Visa-Free                      |
+| 34  | Vietnam             | Visa-Free                      |
+| 35  | Philippines         | Visa-Free                      |
+| 36  | Bangladesh          | Visa-Free                      |
+| 37  | Bhutan              | Visa-Free                      |
+| 38  | Maldives            | Visa-Free                      |
+| 39  | Mauritius           | Visa-Free                      |
+| 40  | Seychelles          | Visa-Free                      |
+| 41  | Hong Kong           | Visa-Free                      |
+| 42  | Macau               | Visa-Free                      |
+| 43  | Thailand            | Visa-Free                      |
+| 44  | Indonesia           | Visa-Free                      |
+| 45  | Malaysia            | Visa-Free                      |
+| 46  | Singapore           | Visa-Free                      |
+| 47  | Sri Lanka           | Visa-Free                      |
+| 48  | Cambodia            | Visa-Free                      |
+| 49  | Laos                | Visa-Free                      |
+| 50  | Myanmar             | Visa-Free                      |
+| 51  | Vietnam             | Visa-Free                      |
+| 52  | Philippines         | Visa-Free                      |
+| 53  | Bangladesh          | Visa-Free                      |
+| 54  | Bhutan              | Visa-Free                      |
+| 55  | Maldives            | Visa-Free                      |
+| 56  | Mauritius           | Visa-Free                      |
+| 57  | Seychelles          | Visa-Free                      |
+
+**Note:** Yeh list samay ke saath badal sakti hai. Kuch countries mein **visa-on-arrival** facility bhi ho sakti hai. Isliye, travel karne se pehle, destination country ki official website ya embassy se latest visa requirements ki jankari lena zaroori hai.
+
+**Visa Requirements Check Karne Ke Liye:**
+
+- **Official Websites:** Har country ki apni official website hoti hai jahan visa requirements ki jankari milti hai.
+
+- **Embassy Contact:** Destination country ki embassy ya consulate se sampark karke bhi visa requirements ke baare mein pata kiya ja sakta hai.
+
+- **Travel Forums:** Travel forums aur communities mein bhi dusre travelers se visa requirements ke baare mein pucha ja sakta hai.
+
+**Important:** Visa policies samay ke saath badal sakti hain. Isliye, travel se pehle hamesha updated information lena zaroori hai. 
+
+<hr>
+
 > ## Yeh kuch famous websites hain jahan se aap logon se asani se connect ho sakte ho, Couchsurfing jaise platforms par ya similar experiences ke liye:
 
 ### **Couchsurfing Alternatives:**
