@@ -116,8 +116,6 @@
 
 **Important:** Visa policies samay ke saath badal sakti hain. Isliye, travel se pehle hamesha updated information lena zaroori hai. 
 
-<hr>
-
 > ## Aapke liye ek detailed table banayi gayi hai jisme un 57 countries ka zikr hai jahan **India passport holders** ko **visa-free** ya **visa-on-arrival** facility milti hai. Is table mein **number**, **country name**, **eligibility** (visa ki zarurat ya nahi), aur **required documents** (entry ke liye avashyak dastavej) diya gaya hai.
 
 **Visa-Free Countries for Indian Passport Holders:**
